@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Community Monitors
 
 You can use the [editor on GitHub](https://github.com/christofvanwyk/commnuity-monitors/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
