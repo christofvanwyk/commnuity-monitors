@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Community Monitors</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id='map'></div>
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoiY29tbXVuaXR5LW1vbml0b3IiLCJhIjoiY2trNmt2amU2MDF5eTJubG53Y2NqaXZsYiJ9.qG9H0pvs2N1rK3hn4zEJNg'; // replace this with your access token
+    var map = new mapboxgl.Map({
+      container: 'map',
+        style: 'mapbox://styles/community-monitor/ckkmfpmov4pnk17pf62a5yc8n', // replace this with your style URL
+      center: [23,-20],
+      zoom: 6
+    });
+    // code from the next step will go here
+        map.on('click', function (e) {
+            var features = map.queryRenderedFeatures(e.point, {
+                layers: ['test-reports'] // replace this with the name of the layer
+            });
+
+            if (!features.length) {
+                return;
+            }
+
+            var feature = features[0];
+
+            var popup = new mapboxgl.Popup({ offset: [0, -15] })
+                .setLngLat(feature.geometry.coordinates)
+                .setHTML('<h3>' + feature.properties.Title + '</h3><p>' + feature.properties.Report + '</p>')
+                .addTo(map);
+        });
+    </script>
+</body>
+</html>
