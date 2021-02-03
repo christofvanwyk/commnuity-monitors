@@ -1,15 +1,26 @@
-# Project Website: Community Monitors 
+# Project Website: Community Monitors Mapping project
+
+> tracing associations
 
 ## Quick Links
-[*  click Here to preview the current Version of the community-monitors map](Map_Index.html)
-[*  click here to view and comment the community monitor
-[*  edit this page](https://github.com/christofvanwyk/commnuity-monitors/edit/gh-pages/index.md "Markdown Editor")
+* Here to preview the current Version of the community-monitors [map](Map_Index.html "Index Map")
+* Here you can view and comment the [community monitors database](https://docs.google.com/spreadsheets/d/1KQE_r0g6fgniXlygYdSrsEwZin0JXl1YzNrDSsG8pS8/edit?usp=sharing)
+*  Edit this page [here](https://github.com/christofvanwyk/commnuity-monitors/edit/gh-pages/index.md "Markdown Editor")
 
 ## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Commnuity Monitors are a [Bench Marks Foundation]()
 
-## Markdown
+## I: 
+> archaeology
+
+### Tasks
+
+- [ ] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [ ] list syntax required (any unordered or ordered list supported)
+- [ ] this is a complete item
+- [ ] this is an incomplete item
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -31,12 +42,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christofvanwyk/commnuity-monitors/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-This project is currently in ```proposal stage```
+This project is currently in proposal stage.
+
+Contact me on christof.vanwyk[at]gmail.com
