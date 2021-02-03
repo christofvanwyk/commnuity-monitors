@@ -16,8 +16,7 @@ There are already solutions out there, that enable people to make maps like:
 * [Google Earth](https://earth.google.com/web/). This is a widely adopted and user friendly platform that makes it easy to create maps with your own points and shapes etc. However the .xml data capabilities are missing. The exported .kml file is interoperable with many applications, which makes it excellent if one needs a quick and dirty map.
 * [QGIS](https://www.qgis.org/en/site/) . A free, open source and powerful GIS program with many powerful plugins. 
 * [Mapbox](https://www.mapbox.com/) is an online mapping platform that's used by many [big companies](https://www.mapbox.com/showcase). It's free if you have less than 10,000 visits to your map in a month and it supports OpenStreetMap development. It's really flexible and I've used it to create the map sofar.
-* [OpenStreetMap](https://www.openstreetmap.org). This is the community created, open source backbone of geodata. 
-
+* [OpenStreetMap](https://www.openstreetmap.org). This is the community created, open source backbone of geodata. Basically, if you don't exist either on Google Maps or OSM, you don't exist. There are many mining communities are "off the map". Anyone can edit and I am already busy adding in communities that didn't exist before. My account is [here](https://www.openstreetmap.org/user/sweetmap) and I can really recommend mapping as a relaxing evening activity. You can even import GPS data (see section III)
 
 **there is no perfect application. What is important is that all these applications can be used in conjunction with the monitors'**
 
