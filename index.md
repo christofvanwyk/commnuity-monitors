@@ -3,26 +3,47 @@
 > tracing associations
 
 ## Quick Links
-* Here to preview the current Version of the community-monitors [map](Map_Index.html "Index Map")
-* Here you can view and comment the [community monitors database](https://docs.google.com/spreadsheets/d/1KQE_r0g6fgniXlygYdSrsEwZin0JXl1YzNrDSsG8pS8/edit?usp=sharing)
-*  Edit this page [here](https://github.com/christofvanwyk/commnuity-monitors/edit/gh-pages/index.md "Markdown Editor")
+* [current version of the community-monitors map](Map_Index.html "Index Map")
+* [view and comment the community monitors database here](https://docs.google.com/spreadsheets/d/1KQE_r0g6fgniXlygYdSrsEwZin0JXl1YzNrDSsG8pS8/edit?usp=sharing)
+* [Edit this page](https://github.com/christofvanwyk/commnuity-monitors/edit/gh-pages/index.md "Markdown Editor")
 
 ## Introduction
 
-Commnuity Monitors are a [Bench Marks Foundation]()
+Commnuity Monitors are a [Bench Marks Foundation](https://www.bench-marks.org.za/) affiliated activists living and reporting about life and problems in mining affected areas. This project will aim to create a searchable map that includes the ~2440+ reports since 2016: [link](communitymonitors.net/). With a better overview of the work already done, it becomes easier to follow up on issues, as well as perhaps seeing the reports at a different scale and in relation to the mining operations. With basic training and some automation in place, Bench Marks Foundation will potentially have a powerful tool to communicate their work. 
 
-## I: 
+There are already solutions out there, that enable people to make maps like:
+* [ushahidi](https://www.ushahidi.com/) is mostly used for humanitarian & crisis response (31%), election monitoring & civic engagement (25%), human rights advocacy (19%) [*source*](https://www.ushahidi.com/uploads/case-studies/ImpactReport_2018.pdf "Report"). 
+* [google earth]
+
+## I: Enhance existing reports with Metadata
+
 > archaeology
 
 ### Tasks
 
-- [ ] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [ ] list syntax required (any unordered or ordered list supported)
-- [ ] this is a complete item
+- [x] scrape communitymonitors.net using [octoparse](https://www.octoparse.com/)
+- [x] download all images from blog
+- [x] format titles (2020)
+- [x] format authors (2020)
+- [x] format dates (2020)
+- [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
+- [x] extract keywords automatically (rough)
+- [ ] extract keywords manually (final)
+
+## Status quo: capacity
+
+>you either create the software or you are the software
+
+### Tasks
+
+- [x] write survey 
+- [ ] feedback end editing
+- [ ] format  titles (2020)
+- [ ] format authors (2020)
+- [ ] format dates (2020)
+- [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
+- [ ] read 
 - [ ] this is an incomplete item
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -46,5 +67,5 @@ Syntax highlighted code block
 ### Support or Contact
 
 This project is currently in proposal stage.
-
 Contact me on christof.vanwyk[at]gmail.com
+I am also available in stream 
