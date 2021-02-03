@@ -44,7 +44,8 @@
 
             var popup = new mapboxgl.Popup({ offset: [0, -15] })
                 .setLngLat(feature.geometry.coordinates)
-                .setHTML('<h3>' + feature.properties.Title + '</h3></h4>' + feature.properties.Author + '</h4><p>' + feature.properties.Report + '</p>')
+                .setHTML('<h3>' + feature.properties.Title + '</h3></h4>' + feature.properties.Author + '</h4><p>' + feature.properties.Report + '</p>' 
+                         + img="https://avatars.githubusercontent.com/u/29581277?s=100&v=4" alt = "test_image")
                 .addTo(map);
         });
     </script>
