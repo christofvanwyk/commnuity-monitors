@@ -35,7 +35,7 @@ There are already solutions out there, that enable people to make maps like:
 - [x] extract keywords automatically (rough)
 - [ ] extract keywords manually (final)
 
-## Status quo: capacity
+## II: Status Quo - Capacity
 
 >you either create the software or you are the software
 
@@ -50,6 +50,35 @@ There are already solutions out there, that enable people to make maps like:
 - [ ] read 
 - [ ] this is an incomplete item
 
+## III: Content Creation
+
+>liberate a thought into indeterminacy
+
+### Tasks
+
+- [x] write survey 
+- [ ] feedback end editing
+- [ ] format  titles (2020)
+- [ ] format authors (2020)
+- [ ] format dates (2020)
+- [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
+- [ ] read 
+- [ ] this is an incomplete item
+
+## IV: Dissemination
+
+>The Medium is the Message
+
+### Tasks
+
+- [x] write survey 
+- [ ] feedback end editing
+- [ ] format  titles (2020)
+- [ ] format authors (2020)
+- [ ] format dates (2020)
+- [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
+- [ ] read 
+- [ ] this is an incomplete item
 ```markdown
 Syntax highlighted code block
 
