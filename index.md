@@ -62,8 +62,6 @@ Survey community monitors capacity (time available, access to technology, transp
 
 Enrich the data content from collection, storage and sending. 
 
-![snowden](https://signal.org/assets/testimonials/snowden-e54d914f15e0becb358d375451978bbb5a307d12a6b91b49cdc1031fd062a0b8.jpg)
-
 ### Tasks
 
 - [ ] let's try using our GPSs (map points in space)
