@@ -71,7 +71,7 @@ There are already solutions out there, that enable people to make maps like:
 
 ### Tasks
 
-- [x] write survey 
+- [ ] Automate Facebook posts with [Zapier](https://zapier.com/) 🤖
 - [ ] feedback end editing
 - [ ] format  titles (2020)
 - [ ] format authors (2020)
@@ -79,23 +79,6 @@ There are already solutions out there, that enable people to make maps like:
 - [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
 - [ ] read 
 - [ ] this is an incomplete item
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
 ### Support or Contact
