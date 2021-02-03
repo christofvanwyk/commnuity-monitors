@@ -32,6 +32,10 @@ There are already solutions out there, that enable people to make maps like:
 - [x] format authors (2020)
 - [x] format dates (2020)
 - [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
+- [ ] figure out how to format and store all media (photos, sounds, videos) in a structured way. 
+- [ ] In the cloud but link and backup-able (dropbox/drive)!?
+- [ ] link media to reports
+- [ ] extract geolocation from 
 - [x] extract keywords automatically (rough)
 - [ ] extract keywords manually (final)
 
@@ -39,12 +43,16 @@ There are already solutions out there, that enable people to make maps like:
 
 >you either create the software or you are the software
 
+Monitors can collect, format send data in more rich ways. 
+
+![snowden](https://signal.org/assets/testimonials/snowden-e54d914f15e0becb358d375451978bbb5a307d12a6b91b49cdc1031fd062a0b8.jpg)
+
 ### Tasks
 
 - [x] write survey 
 - [ ] feedback end editing
-- [ ] format  titles (2020)
-- [ ] format authors (2020)
+- [ ] try getting gps information from monitors
+- [ ] try getting geolocated photos (WhatsApp wipes metadata 😿). Maybe try [Signal App](https://signal.org/en/)
 - [ ] format dates (2020)
 - [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
 - [ ] read 
@@ -53,6 +61,9 @@ There are already solutions out there, that enable people to make maps like:
 ## III: Content Creation
 
 >liberate a thought into indeterminacy
+
+Survey community monitors capacity (time available, access to technology, transport etc.), capability (level of education, interests, skills, social connections etc.). Define and describe other issues that might hinder monitors’ work so that 
+
 
 ### Tasks
 
