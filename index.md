@@ -43,16 +43,14 @@ There are already solutions out there, that enable people to make maps like:
 
 >you either create the software or you are the software
 
-Monitors can collect, format send data in more rich ways. 
-
-![snowden](https://signal.org/assets/testimonials/snowden-e54d914f15e0becb358d375451978bbb5a307d12a6b91b49cdc1031fd062a0b8.jpg)
+Survey community monitors capacity (time available, access to technology, transport etc.), capability (level of education, interests, skills, social connections etc.). Define and describe other issues that might hinder monitors’ work so that 
 
 ### Tasks
 
 - [x] write survey 
 - [ ] feedback end editing
-- [ ] try getting gps information from monitors
-- [ ] try getting geolocated photos (WhatsApp wipes metadata 😿). Maybe try [Signal App](https://signal.org/en/)
+- [ ] do we have profile pics of everyone?
+- [ ] maybe the monitors need their own fb group
 - [ ] format dates (2020)
 - [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
 - [ ] read 
@@ -62,19 +60,19 @@ Monitors can collect, format send data in more rich ways.
 
 >liberate a thought into indeterminacy
 
-Survey community monitors capacity (time available, access to technology, transport etc.), capability (level of education, interests, skills, social connections etc.). Define and describe other issues that might hinder monitors’ work so that 
+Enrich the data content from collection, storage and sending. 
 
+![snowden](https://signal.org/assets/testimonials/snowden-e54d914f15e0becb358d375451978bbb5a307d12a6b91b49cdc1031fd062a0b8.jpg)
 
 ### Tasks
 
-- [x] write survey 
-- [ ] feedback end editing
-- [ ] format  titles (2020)
-- [ ] format authors (2020)
-- [ ] format dates (2020)
-- [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
-- [ ] read 
-- [ ] this is an incomplete item
+- [ ] let's try using our GPSs (map points in space)
+- [ ] let's try using [Signal](https://signal.org/en/) to send files (WhatsApp wipes metadata like geolocation 😿).
+- [ ] panoramas?
+- [ ] create a meme ()?
+- [ ] crowdmapping?
+- [ ] editing a database together (google sheets)
+- [ ] in-App OpenStreetMap editor [street complete augmented reality app](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete&hl=en&gl=US), or [OSMand](https://osmand.net/)
 
 ## IV: Dissemination
 
@@ -83,14 +81,12 @@ Survey community monitors capacity (time available, access to technology, transp
 ### Tasks
 
 - [ ] Automate Facebook posts with [Zapier](https://zapier.com/) 🤖
-- [ ] feedback end editing
-- [ ] format  titles (2020)
-- [ ] format authors (2020)
-- [ ] format dates (2020)
-- [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
-- [ ] read 
-- [ ] this is an incomplete item
-
+- [ ] embed some maps in emails
+- [ ] share pictures, memes
+- [ ] strategize on how to reach different NGOs
+- [ ] strategize on how to reach politicians
+- [ ] strategize on how to reach mining companies
+- [ ] strategize on how to reach ...
 
 ### Support or Contact
 
