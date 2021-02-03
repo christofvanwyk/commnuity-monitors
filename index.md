@@ -12,7 +12,7 @@
 Commnuity Monitors are a [Bench Marks Foundation](https://www.bench-marks.org.za/) affiliated activists living and reporting about life and problems in mining affected areas. This project will aim to create a searchable map that includes the ~2440+ reports since 2016: [link](communitymonitors.net/). With a better overview of the work already done, it becomes easier to follow up on issues, as well as perhaps seeing the reports at a different scale and in relation to the mining operations. With basic training and some automation in place, Bench Marks Foundation will potentially have a powerful tool to communicate their work. 
 
 There are already solutions out there, that enable people to make maps like:
-* [ushahidi](https://www.ushahidi.com/) is mostly used for humanitarian & crisis response (31%), election monitoring & civic engagement (25%), human rights advocacy (19%) [*source*](https://www.ushahidi.com/uploads/case-studies/ImpactReport_2018.pdf "Report"). 
+* [Ushahidi](https://www.ushahidi.com/). This is a is mostly used for humanitarian & crisis response (31%), election monitoring & civic engagement (25%), human rights advocacy (19%) [*source*](https://www.ushahidi.com/uploads/case-studies/ImpactReport_2018.pdf "Report"). This platform, although very user friendly (sms capabilities, twitter, csv import etc.) 
 * [google earth]
 
 ## I: Enhance existing reports with Metadata
