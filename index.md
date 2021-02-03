@@ -12,8 +12,14 @@
 Commnuity Monitors are a [Bench Marks Foundation](https://www.bench-marks.org.za/) affiliated activists living and reporting about life and problems in mining affected areas. This project will aim to create a searchable map that includes the ~2440+ reports since 2016: [link](communitymonitors.net/). With a better overview of the work already done, it becomes easier to follow up on issues, as well as perhaps seeing the reports at a different scale and in relation to the mining operations. With basic training and some automation in place, Bench Marks Foundation will potentially have a powerful tool to communicate their work. 
 
 There are already solutions out there, that enable people to make maps like:
-* [Ushahidi](https://www.ushahidi.com/). This is a is mostly used for humanitarian & crisis response (31%), election monitoring & civic engagement (25%), human rights advocacy (19%) [*source*](https://www.ushahidi.com/uploads/case-studies/ImpactReport_2018.pdf "Report"). This platform, although very user friendly (sms capabilities, twitter, csv import etc.) 
-* [google earth]
+* [Ushahidi](https://www.ushahidi.com/). This is a is mostly used for humanitarian & crisis response (31%), election monitoring & civic engagement (25%), human rights advocacy (19%) [*source*](https://www.ushahidi.com/uploads/case-studies/ImpactReport_2018.pdf "Report"). This platform, although very user friendly and excellent at receiving large amounts of pre-formatted surveys quickly (online surveys, also sms, twitter, csv import etc.), it lacks some freedom in how to display and manipulate the data in order to get better insights.
+* [Google Earth](https://earth.google.com/web/). This is a widely adopted and user friendly platform that makes it easy to create maps with your own points and shapes etc. However the .xml data capabilities are missing. The exported .kml file is interoperable with many applications, which makes it excellent if one needs a quick and dirty map.
+* [QGIS](https://www.qgis.org/en/site/) . A free, open source and powerful GIS program with many powerful plugins. 
+* [Mapbox](https://www.mapbox.com/) is an online mapping platform that's used by many [big companies](https://www.mapbox.com/showcase). It's free if you have less than 10,000 visits to your map in a month and it supports OpenStreetMap development. It's really flexible and I've used it to create the map sofar.
+* [OpenStreetMap](https://www.openstreetmap.org). This is the community created, open source backbone of geodata. 
+
+
+**there is no perfect application. What is important is that all these applications can be used in conjunction with the monitors'**
 
 ## I: Enhance existing reports with Metadata
 
