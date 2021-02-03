@@ -1,6 +1,8 @@
-## Community Monitors
+## Project Website: Community Monitors
 
-[map 1](Map_Index.html)
+[Click Here to view the current Version of the community-monitors map](Map_Index.html)
+
+This is [an example](http://example.com/ "Title") inline link.
 
 You can use the [editor on GitHub](https://github.com/christofvanwyk/commnuity-monitors/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
