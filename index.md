@@ -26,18 +26,18 @@ There are already solutions out there, that enable people to make maps like:
 
 ### Tasks
 
-[x] scrape communitymonitors.net using [octoparse](https://www.octoparse.com/)
-[x] download all images from blog
-[x] format titles (2020)
-[x] format authors (2020)
-[x] format dates (2020)
-[ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
-[ ] figure out how to format and store all media (photos, sounds, videos) in a structured way. 
-[ ] In the cloud but link and backup-able (dropbox/drive)!?
-[ ] link media to reports
-[ ] extract geolocation from 
-[x] extract keywords automatically (rough)
-[ ] extract keywords manually (final)
+- [x] scrape communitymonitors.net using [octoparse](https://www.octoparse.com/)
+- [x] download all images from blog
+- [x] format titles (2020)
+- [x] format authors (2020)
+- [x] format dates (2020)
+- [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
+- [ ] figure out how to format and store all media (photos, sounds, videos) in a structured way. 
+- [ ] In the cloud but link and backup-able (dropbox/drive)!?
+- [ ] link media to reports
+- [ ] extract geolocation from 
+- [x] extract keywords automatically (rough)
+- [ ] extract keywords manually (final)
 
 ## II: Status Quo - Capacity
 
@@ -47,14 +47,14 @@ Survey community monitors capacity (time available, access to technology, transp
 
 ### Tasks
 
-[x] write survey [link](https://forms.gle/wAKFhBpPyGKcN5Aq6)
-[ ] feedback end editing
-[ ] do we have profile pics of everyone?
-[ ] maybe the monitors need their own fb group
-[ ] format dates (2020)
-[ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
-[ ] read 
-[ ] this is an incomplete item
+- [x] write survey [link](https://forms.gle/wAKFhBpPyGKcN5Aq6)
+- [ ] feedback end editing
+- [ ] do we have profile pics of everyone?
+- [ ] maybe the monitors need their own fb group
+- [ ] format dates (2020)
+- [ ] geocode locations using [smartmonkey geocode](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312)
+- [ ] read 
+- [ ] this is an incomplete item
 
 ## III: Content Creation
 
@@ -64,13 +64,13 @@ Enrich the data content from collection, storage and sending.
 
 ### Tasks
 
-[ ] let's try using our GPSs (map points in space)
-[ ] let's try using [Signal](https://signal.org/en/) to send files (WhatsApp wipes metadata like geolocation 😿).
-[ ] panoramas?
-[ ] create a meme (imgur)?
-[ ] crowdmapping?
-[ ] editing a database together (google sheets)
-[ ] in-App OpenStreetMap editor [street complete augmented reality app](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete&hl=en&gl=US), or [OSMand](https://osmand.net/)
+- [ ] let's try using our GPSs (map points in space)
+- [ ] let's try using [Signal](https://signal.org/en/) to send files (WhatsApp wipes metadata like geolocation 😿).
+- [ ] panoramas?
+- [ ] create a meme (imgur)?
+- [ ] crowdmapping?
+- [ ] editing a database together (google sheets)
+- [ ] in-App OpenStreetMap editor [street complete augmented reality app](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete&hl=en&gl=US), or [OSMand](https://osmand.net/)
 
 ## IV: Dissemination
 
@@ -78,13 +78,13 @@ Enrich the data content from collection, storage and sending.
 
 ### Tasks
 
-[ ] Automate Facebook posts with [Zapier](https://zapier.com/) 🤖
-[ ] embed some maps in emails
-[ ] share pictures, memes
-[ ] strategize on how to reach different NGOs
-[ ] strategize on how to reach politicians
-[ ] strategize on how to reach mining companies
-[ ] strategize on how to reach ...
+- [ ] Automate Facebook posts with [Zapier](https://zapier.com/) 🤖
+- [ ] embed some maps in emails
+- [ ] share pictures, memes
+- [ ] strategize on how to reach different NGOs
+- [ ] strategize on how to reach politicians
+- [ ] strategize on how to reach mining companies
+- [ ] strategize on how to reach ...
 
 ### Support or Contact
 
