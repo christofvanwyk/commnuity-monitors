@@ -67,7 +67,7 @@ Enrich the data content from collection, storage and sending.
 - [ ] let's try using our GPSs (map points in space)
 - [ ] let's try using [Signal](https://signal.org/en/) to send files (WhatsApp wipes metadata like geolocation 😿).
 - [ ] panoramas?
-- [ ] create a meme (imgur)?
+- [ ] picture = 1000 words.
 - [ ] crowdmapping?
 - [ ] editing a database together (google sheets)
 - [ ] in-App OpenStreetMap editor [street complete augmented reality app](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete&hl=en&gl=US), or [OSMand](https://osmand.net/)
