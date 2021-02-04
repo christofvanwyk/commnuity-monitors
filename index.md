@@ -47,7 +47,7 @@ Survey community monitors capacity (time available, access to technology, transp
 
 ### Tasks
 
-- [x] write survey [link](https://forms.gle/wAKFhBpPyGKcN5Aq6)
+- [x] write survey [link](https://forms.gle/wAKFhBpPyGKcN5Aq6) (done Nov 2020)
 - [ ] feedback end editing
 - [ ] do we have profile pics of everyone?
 - [ ] maybe the monitors need their own fb group
