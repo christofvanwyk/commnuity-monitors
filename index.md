@@ -62,6 +62,9 @@ Survey community monitors capacity (time available, access to technology, transp
 
 Enrich the data content from collection, storage and sending. 
 
+###Submitting information
+* [JotForm](https://www.jotform.com/pricing/)
+
 ### Tasks
 
 - [ ] let's try using our GPSs (map points in space)
