@@ -26,14 +26,14 @@
         mapboxgl.accessToken = 'pk.eyJ1IjoiY29tbXVuaXR5LW1vbml0b3IiLCJhIjoiY2trNmt2amU2MDF5eTJubG53Y2NqaXZsYiJ9.qG9H0pvs2N1rK3hn4zEJNg'; // replace this with your access token
     var map = new mapboxgl.Map({
       container: 'map',
-        style: 'https://api.mapbox.com/styles/v1/community-monitor/ckl8hpvz92lzu17nyu3s7fphc/draft.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY29tbXVuaXR5LW1vbml0b3IiLCJhIjoiY2trNmt2amU2MDF5eTJubG53Y2NqaXZsYiJ9.qG9H0pvs2N1rK3hn4zEJNg', // replace this with your style URL
+        style: 'mapbox://styles/community-monitor/ckl8hpvz92lzu17nyu3s7fphc', // replace this with your style URL
       center: [24,-21],
       zoom: 4
     });
     // code from the next step will go here
         map.on('click', function (e) {
             var features = map.queryRenderedFeatures(e.point, {
-                layers: ['test-reports'] // replace this with the name of the layer
+                layers: ['Text-Close-Up'] // replace this with the name of the layer
             });
 
             if (!features.length) {
