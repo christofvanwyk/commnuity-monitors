@@ -1,3 +1,8 @@
+💚 source accessible *(date last checked, comment)*
+
+💩 source not accessible *(date last checked, comment)*
+
+
 # Description of files in depository
 * [ ] Create Community_Monitor_Archive2021.geojson 
 
@@ -7,8 +12,6 @@
 
 # Data Sources
 
-💚 source accessible (date last checked, comment)
-💩 source not accessible (date last checked, comment)
 
 
 
