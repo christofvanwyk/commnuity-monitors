@@ -47,6 +47,23 @@
                 .setLngLat(feature.geometry.coordinates)
                 .setHTML('<h3>' + feature.properties.Title + '</h3></h4>' + feature.properties.Author + '</h4><p>' + feature.properties.Text + '</p>')
                 .addTo(map);
+            
+             // code from the next step will go here
+        map.on('click', function (e) {
+            var features = map.queryRenderedFeatures(e.point, {
+                layers: ['Text-Far'] // replace this with the name of the layer
+            });
+
+            if (!features.length) {
+                return;
+            }
+
+            var feature = features[0];
+
+            var popup = new mapboxgl.Popup({ offset: [0, -15] })
+                .setLngLat(feature.geometry.coordinates)
+                .setHTML('<h3>' + feature.properties.Title + '</h3></h4>' + feature.properties.Author + '</h4><p>' + feature.properties.Text + '</p>')
+                .addTo(map);
         });
     </script>
 </body>
