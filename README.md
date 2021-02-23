@@ -9,9 +9,12 @@
 
 # Sources
 
-## Databases
+## Mine Data
 - 💚 https://www.mindat.org/
 - https://miningdataonline.com
+- https://www.mining-journal.com
+
+## Map Sources
 - https://egis.environment.gov.za/data_egis/data_download/current
 - http://www.geoterraimage.com/downloads.php
 - http://www.ngi.gov.za/
