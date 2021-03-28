@@ -28,6 +28,10 @@
 - https://municipalities.co.za/resources/1157/emalahleni-local-municipality
 - https://www.emalahleni.gov.za/v2/human-settlement
 
+### Mapbox
+- https://demos.mapbox.com/vt_polygons/
+
+
 ## people
 - :bowtie:[Norwood Young](https://github.com/j-norwood-young/)
 - :bowtie: https://github.com/adieyal
